@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Abhishek Srivastava 👋</h1>
 
 <p align="center">
@@ -66,7 +65,7 @@
 * Used **ImageKit** for image storage and delivery
 
 <p>
-  <a href="https://github.com/abhishekXsrivastva" target="_blank">
+  <a href="https://github.com/abhishekXsrivastva/PromptSphere" target="_blank">
     <img src="https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://quick-gpt.vercel.app/" target="_blank">
@@ -84,8 +83,11 @@
 * Integrated movie data and dynamic recommendation flows
 
 <p>
-  <a href="https://github.com/abhishekXsrivastva" target="_blank">
+  <a href="https://github.com/abhishekXsrivastva/MoodFlix" target="_blank">
     <img src="https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://aiflix-1.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=render&logoColor=white" />
   </a>
 </p>
 
@@ -99,7 +101,7 @@
 * Used Socket.io for low-latency bidirectional communication
 
 <p>
-  <a href="https://github.com/abhishekXsrivastva" target="_blank">
+  <a href="https://github.com/abhishekXsrivastva/Real-Time-Chat-Application" target="_blank">
     <img src="https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
@@ -119,10 +121,18 @@
 
 ---
 
-## 🤝 Let’s Connect
+## 🧩 LeetCode Stats & Daily Streak
 
 <p align="center">
-  I’m actively seeking full-time opportunities in <b>Full-Stack Development, MERN Stack Development, Frontend Development, and Software Engineering</b>.
+  <img src="https://leetcard.jacoblin.cool/abhi-1802-?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  I'm actively seeking full-time opportunities in <b>Full-Stack Development, MERN Stack Development, Frontend Development, and Software Engineering</b>.
   <br /><br />
   <a href="https://linkedin.com/in/abhishek18srivastva/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -130,6 +140,6 @@
 </p>
 
 <p align="center">
-  <i>“Building practical products, learning consistently, and preparing for impactful engineering roles.”</i>
+  <i>"Building practical products, learning consistently, and preparing for impactful engineering roles."</i>
 </p>
 
