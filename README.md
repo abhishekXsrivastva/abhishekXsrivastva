@@ -125,8 +125,7 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekXsrivastva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekXsrivastva&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekXsrivastva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="60%" />
 </p>
 
 <p align="center">
@@ -139,12 +138,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekXsrivastva&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%" />
-</p>
-
-## 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/abhi-1802-?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
