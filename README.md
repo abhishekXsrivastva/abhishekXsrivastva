@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abhishek Srivastava 👋</h1>
+<h1 align="center">Hi, I'm Abhishek Srivastva 👋</h1>
 
 <p align="center">
   <b>Full-Stack MERN Developer • AI-Powered Web Applications • 2026 Graduate</b>
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/abhishek18srivastva/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Srivastva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abhishek18srivastva@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -122,15 +122,6 @@
 
 ---
 
-
-
----
-
-## 🔥 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekXsrivastva&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%" />
-</p>
 
 ---
 
