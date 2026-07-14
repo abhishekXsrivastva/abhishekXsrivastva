@@ -87,7 +87,7 @@
   </a>
 </p>
 
-### 🎬 Moodsyn — AI Movie Recommendation App
+### 🎬 MoodSync — AI Movie Recommendation Platform
 
 > A mood-based movie recommendation application powered by AI.
 
